@@ -28,29 +28,29 @@ in this project we want to use a toollbox "MUST" in Matlab to simulate of how to
    <img src="3.PNG" width="650" height="300" border="20">
 
  
-### simulation
+## simulation
 
 
 
-### defining of scatters 
+### 1-defining of scatters 
 
   <img src="4.PNG" width="650" height="300" border="20">
 
 
-### defining parameters of physical instruments
+### 2-defining parameters of physical instruments
 
    <img src="5.PNG" width="650" height="300" border="20">
 
 
-### simulation of phased array probe
+### 3-simulation of phased array probe
 
    <img src="6.PNG" width="650" height="300" border="20">
 
-### simulation of RF signal 
+### 4-simulation of RF signal 
 
    <img src="7.PNG" width="650" height="300" border="20">
 
 
-### converting of RF signal to B-mode image
+### 5-converting of RF signal to B-mode image
 
    <img src="8.PNG" width="650" height="300" border="20">
